@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984126684259",
+    "project_id": "chatapp-270af",
+    "storage_bucket": "chatapp-270af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984126684259:android:d8a06ba10d36e2c3f00c56",
+        "android_client_info": {
+          "package_name": "com.wastegps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXOGSjs4b4H5410zdFmM9ZyYkgSXQ_Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
