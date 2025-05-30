@@ -96,7 +96,7 @@
             box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
         }
         .project-card {
-    background: rgba(255, 255, 255, 0.2);
+    background: rgba(0, 0, 0, 0.0);
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
